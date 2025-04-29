@@ -1,0 +1,8 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"U2";"SOT-223-3_TabPin2";1;"AMS1117-3.3";;;
+2;"U1";"ESP32-WROOM-32";1;"ESP32-WROOM-32";;;
+3;"SW1";"SW_MEC_5GSH9";1;"SW_Push";;;
+4;"J3";"SW_DIP_SPSTx05_Slide_6.7x14.26mm_W6.73mm_P2.54mm_LowProfile_JPin";1;"Conn_01x05_Pin";;;
+5;"J2";"Tag-Connect_TC2030-IDC-FP_2x03_P1.27mm_Vertical";1;"Barrel_Jack";;;
+6;"J1";"FanPinHeader_1x04_P2.54mm_Vertical";1;"Conn_01x04_Pin";;;
+7;"D1";"LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O1.27mm_Z1.6mm";1;"LED";;;

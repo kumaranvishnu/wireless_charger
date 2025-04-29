@@ -1,0 +1,12 @@
+### Footprint positions - created on 2025-04-29T12:10:36+0530 ###
+### Printed by KiCad version 9.0.0
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val             Package                                                                PosX       PosY       Rot  Side
+D1        LED             LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O1.27mm_Z1.6mm                 195.9600  -112.5000    0.0000  top
+J1        Conn_01x04_Pin  FanPinHeader_1x04_P2.54mm_Vertical                                 184.3500  -104.9400    0.0000  top
+J3        Conn_01x05_Pin  SW_DIP_SPSTx05_Slide_6.7x14.26mm_W6.73mm_P2.54mm_LowProfile_JPin   176.8500  -109.2050    0.0000  top
+SW1       SW_Push         SW_MEC_5GSH9                                                       165.8000  -109.5400    0.0000  top
+U1        ESP32-WROOM-32  ESP32-WROOM-32                                                     184.5000   -90.1800    0.0000  top
+U2        AMS1117-3.3     SOT-223-3_TabPin2                                                  187.0000  -113.4650    0.0000  top
+## End
